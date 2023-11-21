@@ -18,7 +18,7 @@
 - d. Project TwoActivity
 - e. Project Set Alarm
 
-Untuk program selengkapnya : [Sourcecode](https://github.com/GilarSumilar/Android)
+#### Untuk program selengkapnya : [Link](https://github.com/GilarSumilar/Android)
 
 ### Demo Aplikasi
 <img src="https://github.com/GilarSumilar/HelloAppTI22A4/blob/main/Gambar/Animation.gif" alt="Tugas" style="width: 60%;"/>
