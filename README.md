@@ -5,7 +5,7 @@
 | **Nama** | Gilar Sumilar |
 | **NIM** | 312210407 |
 | **Kelas** | TI.22.A4 |
-| **Mata Kuliah** | Pemrograman WEB |
+| **Mata Kuliah** | Pemrograman Mobile |
 
 ### Instruksi
 1. Launcher Splash logo masing-masing Individu 
