@@ -9,7 +9,7 @@
 
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
-- **[Tugas 2](#Tugas-3)**
+- **[Tugas 3](#Tugas-3)**
 
 ### Instruksi **Tugas 1**
 1. Launcher Splash logo masing-masing Individu 
