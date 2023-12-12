@@ -6,6 +6,8 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
+import com.hello.fragment.ViewPagerActivity;
+
 public class MenuActivity extends AppCompatActivity {
 
     CardView tombolSatu;
@@ -14,6 +16,7 @@ public class MenuActivity extends AppCompatActivity {
     CardView tombolEmpat;
     CardView tombolLima;
     CardView tombolEnam;
+    CardView tombolTujuh;
 
 
     @Override
@@ -72,6 +75,15 @@ public class MenuActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MenuActivity.this, MapActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        tombolTujuh = findViewById(R.id.cdMenu7);
+        tombolTujuh.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MenuActivity.this, ViewPagerActivity.class);
                 startActivity(intent);
             }
         });

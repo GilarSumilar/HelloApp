@@ -79,6 +79,12 @@
 
             <!-- Add additional configuration as needed -->
         </activity>
+        <activity
+            android:name=".fragment.ViewPagerActivity"
+            android:exported="false">
+
+            <!-- Add additional configuration as needed -->
+        </activity>
     </application>
 
 </manifest>
