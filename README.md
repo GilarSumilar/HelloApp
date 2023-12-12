@@ -10,6 +10,7 @@
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
 - **[Tugas 3](#Tugas-3)**
+**Note :** Jika GIF tugas tidak terlihat, lihat di file gambar
 
 ### Instruksi **Tugas 1**
 1. Launcher Splash logo masing-masing Individu 
