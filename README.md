@@ -9,6 +9,7 @@
 
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
+- **[Tugas 3](#Tugas-3)**
 
 ### Instruksi **Tugas 1**
 1. Launcher Splash logo masing-masing Individu 
@@ -37,3 +38,17 @@ dengan tampilan sebagai berikut :
 
 ### Demo Aplikasi
 <img src="https://github.com/GilarSumilar/HelloAppTI22A4/blob/main/Gambar/Animation2.gif" alt="Tugas" style="width: 60%;"/>
+
+
+## **Tugas 3**
+
+Dalam pemrograman Android, "fragment" adalah salah satu komponen dasar yang digunakan untuk membangun antarmuka pengguna (UI) dalam suatu aplikasi.
+Sebuah fragment merepresentasikan bagian modular dari antarmuka pengguna, yang dapat digunakan kembali dan ditempatkan di dalam aktivitas (Activity) untuk membentuk antarmuka pengguna yang kompleks.
+
+Buatlah fragment menu dengan tema Genre Film (Action, Komedi dan Romance)
+dengan tampilan sebagai berikut :
+
+<img src="https://github.com/GilarSumilar/HelloAppTI22A4/blob/main/Gambar/2.PNG" alt="Tugas" style="width: 40%;"/>
+
+### Demo Aplikasi
+<img src="https://github.com/GilarSumilar/HelloApp/blob/main/Gambar/Animation3.gif" alt="Tugas" style="width: 60%;"/>
