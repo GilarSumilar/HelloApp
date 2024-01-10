@@ -10,6 +10,7 @@
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
 - **[Tugas 3](#Tugas-3)**
+**Note :** Jika GIF tugas tidak terlihat, lihat di file gambar
 
 ### Instruksi **Tugas 1**
 1. Launcher Splash logo masing-masing Individu 
@@ -52,3 +53,10 @@ dengan tampilan sebagai berikut :
 
 ### Demo Aplikasi
 <img src="https://github.com/GilarSumilar/HelloApp/blob/main/Gambar/Animation3.gif" alt="Tugas" style="width: 60%;"/>
+
+## **Tugas Akhir**
+
+<img src="" alt="Tugas" style="width: 40%;"/>
+
+### Demo Aplikasi
+<img src="" alt="Tugas" style="width: 60%;"/>
