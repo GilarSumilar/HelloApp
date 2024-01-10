@@ -10,6 +10,8 @@
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
 - **[Tugas 3](#Tugas-3)**
+- **[Tugas 4](#Demo-Aplikasi)**
+
 **Note :** Jika GIF tugas tidak terlihat, lihat di file gambar
 
 ### Instruksi **Tugas 1**
@@ -56,7 +58,7 @@ dengan tampilan sebagai berikut :
 
 ## **Tugas Akhir**
 
-<img src="" alt="Tugas" style="width: 40%;"/>
+<img src="https://github.com/GilarSumilar/HelloApp/blob/main/Gambar/3.png" alt="Tugas" style="width: 40%;"/>
 
 ### Demo Aplikasi
-<img src="" alt="Tugas" style="width: 60%;"/>
+https://github.com/GilarSumilar/HelloApp/assets/115634466/91ccebb0-a066-455b-b268-8648d85c3e63
