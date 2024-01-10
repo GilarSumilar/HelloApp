@@ -53,3 +53,10 @@ dengan tampilan sebagai berikut :
 
 ### Demo Aplikasi
 <img src="https://github.com/GilarSumilar/HelloApp/blob/main/Gambar/Animation3.gif" alt="Tugas" style="width: 60%;"/>
+
+## **Tugas Akhir**
+
+<img src="" alt="Tugas" style="width: 40%;"/>
+
+### Demo Aplikasi
+<img src="" alt="Tugas" style="width: 60%;"/>
