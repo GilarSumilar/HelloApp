@@ -12,6 +12,7 @@ import android.widget.ImageView;
 import androidx.fragment.app.Fragment;
 
 import com.hello.R;
+import com.hello.fragment.sinopsis.sinopsis_action;
 
 public class Tab1 extends Fragment {
 
@@ -20,10 +21,15 @@ public class Tab1 extends Fragment {
         View view = inflater.inflate(R.layout.fragment_tab1, container, false);
 
         ImageView imageView = view.findViewById(R.id.imageView);
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), sinopsis_action.class);
+                startActivity(intent);
+            }
+        });
+
 
         return view;
-    }
-
-    private void OnToggleClicked() {
     }
 }

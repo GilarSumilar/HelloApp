@@ -12,6 +12,8 @@ import android.widget.ImageView;
 import androidx.fragment.app.Fragment;
 
 import com.hello.R;
+import com.hello.fragment.sinopsis.muwak;
+
 
 public class Tab2 extends Fragment {
 
@@ -19,7 +21,14 @@ public class Tab2 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_tab2, container, false);
 
-        ImageView imageView12 = view.findViewById(R.id.imageView12);
+        ImageView imageView = view.findViewById(R.id.imageView);
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), muwak.class);
+                startActivity(intent);
+            }
+        });
 
         return view;
     }

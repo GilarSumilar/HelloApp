@@ -4,6 +4,8 @@
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -82,6 +84,18 @@
         <activity
             android:name=".fragment.ViewPagerActivity"
             android:exported="false">
+
+            <!-- Add additional configuration as needed -->
+        </activity>
+        <activity android:name=".fragment.sinopsis.sinopsis_action">
+
+            <!-- Add additional configuration as needed -->
+        </activity>
+        <activity android:name=".fragment.sinopsis.muwak">
+
+            <!-- Add additional configuration as needed -->
+        </activity>
+        <activity android:name=".fragment.sinopsis.sinopsis_aot">
 
             <!-- Add additional configuration as needed -->
         </activity>

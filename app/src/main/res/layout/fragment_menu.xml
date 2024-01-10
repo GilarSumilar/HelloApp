@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="@color/white"
         app:tabTextColor="@color/black"
-        app:tabIndicatorColor="@color/white"
+        app:tabIndicatorColor="@color/Logo"
         app:layout_constraintTop_toBottomOf="@+id/empty_tab_layout"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
