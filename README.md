@@ -10,7 +10,7 @@
 - **[Tugas 1](#Intruksi)**
 - **[Tugas 2](#Tugas-2)**
 - **[Tugas 3](#Tugas-3)**
-- **[Tugas 4](#Demo-Aplikasi)**
+- **[Tugas Akhir](#Tugas-Akhir)**
 
 **Note :** Jika GIF tugas tidak terlihat, lihat di file gambar
 
